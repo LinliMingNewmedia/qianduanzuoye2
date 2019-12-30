@@ -1,7 +1,7 @@
 # 前端第二题
 
 ## 1、VUE2前端框架搭建
-* [网址](http://49.235.241.203/#/)
+* [网址http://49.235.241.203/#/](http://49.235.241.203/#/)
 * ![](https://raw.githubusercontent.com/LinliMingNewmedia/qianduanzuoye2/master/1.png)
     
 ***
@@ -22,6 +22,6 @@
     
 ***
 
-## 6、在https://www.dcloud.io/下载商城插件，修改相关信息
+## 6、下载商城插件，修改相关信息
 *  ![](https://raw.githubusercontent.com/LinliMingNewmedia/qianduanzuoye2/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191228220327.png)
 *  ![](https://raw.githubusercontent.com/LinliMingNewmedia/qianduanzuoye2/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191228220331.png)
